@@ -33,7 +33,7 @@ We were requested to analyze the previous election audit and provide additional 
 
 ### Election-Audit Results: 
 
-- Number of Votes on the congessional election:
+- Total Number of Votes on the congessional election:
 
 ![Election_Results.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Election_Results.png)
 
