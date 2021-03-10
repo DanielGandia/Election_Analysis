@@ -58,5 +58,6 @@ We were requested to analyze the previous election audit and provide additional 
 
 ### Election-Audit Summary: 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The script used for this exercise was based on the importing of the information from a CSV file. This can be used for future electiones because the lists, dictionaries and variables were calculated from cero value. If the new data for upcoming elections is in the same format, we would be able to run this exact script and produce similar results. Please see the below image for additional details. 
 
+![Example_of_Code.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Example_of_Code.png)
