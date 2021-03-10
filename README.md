@@ -34,31 +34,29 @@ We were requested to analyze the previous election audit and provide additional 
 ### Election-Audit Results: 
 
 - Number of Votes on the congessional election:
-The total number of votes casted was 369,711.
+
+![Election_Results.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Election_Results.png)
 
 - Breakdown of the number of votes and the percentage of total votes per county:
 
-![County_Votes.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/PyPoll_Results_txt.png)
+![County_Votes.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/County_Votes.png)
 
 
 - The county with largest number of votes:
-![Largest_County.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/PyPoll_Results_txt.png)
+
+![Largest_County.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Largest_County.png)
 
 
 - Breakdown of the number of votes and the percentage of the total votes for each candidate:
 
-![Breakdown_of_Votes.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/PyPoll_Results_txt.png)
+![Breakdown_of_Votes.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Breakdown_of_Votes.png)
 
 
 - Winner of the election:
 
-    Diana DeGette
-    Number of Votes: 272,892
-    Percentage of Votes: 73.8%
+![Winner.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Winner.png)
 
-![Winner.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/PyPoll_Results_txt.png)
 ### Election-Audit Summary: 
 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-![PyPoll_Results_txt.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/PyPoll_Results_txt.png)
