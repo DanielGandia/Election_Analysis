@@ -54,10 +54,6 @@ We were requested to analyze the previous election audit and provide additional 
 
 - Winner of the election:
 
-    Diana DeGette
-    Number of Votes: 272,892
-    Percentage of Votes: 73.8%
-
 ![Winner.png](https://github.com/DanielGandia/Election_Analysis/blob/main/Resources/Winner.png)
 
 ### Election-Audit Summary: 
