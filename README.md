@@ -10,7 +10,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determin the winner of the election based on popular vote. 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python:3.9, Vicual Studio Code 1.54
+- Software: Python:3.9, Visual Studio Code 1.54
 ## Summary
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
